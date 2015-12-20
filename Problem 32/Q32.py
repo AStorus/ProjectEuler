@@ -84,7 +84,8 @@ threeDigitMultipliers(candidates)
 fourDigitMultipliers(candidates)
 
 total = 0
+
 for f in final:
-    print f
     total += f
+
 print total
